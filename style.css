@@ -1,0 +1,19 @@
+td, th {
+  width: 20px;
+  height: 20px;
+  color: white;
+}
+
+th {
+  background-color: black;
+}
+
+td {
+  background-color: blue;
+}
+
+#no-mans-land {
+  background-color: green;
+  height: 100px;
+  margin: 50px 0;
+}
